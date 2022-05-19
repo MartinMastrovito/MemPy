@@ -1,6 +1,6 @@
-# Tateti game
+# MemPy game
 
-Repo de ejemplo de juego para la cátedra de Python de la UNLP
+Repo de juego para la cátedra de Python de la UNLP
 
 ## ¿Cómo correr la aplicación?
 
